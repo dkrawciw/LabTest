@@ -1,0 +1,54 @@
+body{
+  margin: 0;
+  background-color: #FDFFFC;
+  text-align: center;
+  color: #1F487E;
+  font-family: 'Montserrat', sans-serif;
+}
+button{
+  font-family: 'Montserrat', sans-serif;
+  padding: 4px;
+  border: none;
+  color: white;
+  background-color: #393E41;
+  transition: all 0.3s;
+  padding: 1%;
+  margin-left: 3%;
+  margin-right: 3%;
+  font-size: 20px;
+  outline: none;
+  letter-spacing: 1px;
+  font-weight: thin;
+}
+button:hover{
+  background-color: #1F487E;
+  cursor: pointer;
+}
+#headerThing{
+  background-color: #1F487E;
+  margin: 0 auto;
+  color: #FDFFFC;
+  padding: 0.1%;
+  font-size: 30px;
+  letter-spacing: 3px;
+}
+#links{
+  background-color: #393E41;
+  margin: 0 auto;
+}
+h1:hover{
+  cursor: pointer;
+}
+a{
+  color: white;
+}
+#cegielski{
+  background-color: #393E41;
+  margin: auto;
+  margin: 5%;
+  margin-right: 25%;
+  margin-left: 25%;
+  border-radius: 20px;
+  padding: 2%;
+  color: white;
+}
