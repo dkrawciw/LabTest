@@ -1,0 +1,56 @@
+body{
+  text-align: center;
+  font-family: 'Nunito', sans-serif;
+  background-color: #38369A;
+  color: white;
+  margin: 0;
+}
+#titleDiv{
+  background-color: #2A2D34;
+  margin: 0 auto;
+  padding: 1%;
+}
+h1{
+  font-size: 40px;
+  margin-right: 8.3%;
+  transition: all 0.3s;
+}
+h1:hover{
+  cursor: pointer;
+  text-shadow: 0px 0px 20px white;
+}
+h2{
+  transition: all 0.3s;
+}
+h2:hover{
+  cursor: pointer;
+  text-decoration: underline;
+}
+button{
+  font-family: 'Nunito', sans-serif;
+  border: none;
+  border-radius: 100px;
+  padding: 2%;
+  color: white;
+  font-size: 40px;
+  padding-right: 3%;
+  padding-left: 3%;
+  background-color: #38369A;
+  transition: all 0.3s;
+  outline: none;
+}
+#x{
+  float: left;
+  margin-top: -0.5%;
+  margin-left: 0.5%;
+}
+#k{
+  float: right;
+  margin-top: -7%;
+  margin-right: 0.5%;
+}
+button:hover{
+  background-color: #020887;
+  cursor: pointer;
+  transform: rotate(360deg);
+}
