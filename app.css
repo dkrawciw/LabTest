@@ -7,6 +7,14 @@ body{
 h1:hover{
   cursor: pointer;
 }
+a{
+  text-decoration: none;
+  color: #F4F9E9;
+  transition: all 0.3s;
+}
+a:hover{
+  color: #FFFFFF;
+}
 #topDiv{
   background-color: #25283D;
   margin: 0 auto;
